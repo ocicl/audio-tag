@@ -1,0 +1,10 @@
+* audio-tag
+
+A simple tool to duel with audio tag in lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/C-Entropy/audio-tag.git   |
+| commit  | 1488999  |
+| systems | audio-tag |
+|---------+-------------------------------------------|
+
